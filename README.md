@@ -8,3 +8,4 @@ Here is a screenshot of a new .NET 5 Console App with this repo's code running. 
 
 The code contains comments to help understand how to get the most out of these APIs.
 
+When reviewing the code, it makes sense to start with `SampleAttachedCollectionSourceProvider.cs`.
